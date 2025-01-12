@@ -122,6 +122,10 @@ CETV-1 综合教育
 CETV-2 空中课堂
 CETV-3 教育服务
 CETV-4 职业教育
+中国教育1台
+中国教育２台
+中国教育３台
+中国教育4台
 CETV-1
 CETV-2
 CETV-3
@@ -188,6 +192,36 @@ CCTV-兵器科技
 中国天气
 热门综艺
 戏曲精选
+
+📺央视「IPV6」,#genre#
+CCTV1 综合「IPV6」
+CCTV2 财经「IPV6」
+CCTV3 综艺「IPV6」
+CCTV4 中文国际「IPV6
+CCTV5 体育「IPV6」
+CCTV5+ 体育赛事「IPV6」
+CCTV6 电影「IPV6」
+CCTV7 国防军事「IPV6」
+CCTV8 电视剧「IPV6」
+CCTV9 纪录「IPV6」
+CCTV 10 科教「IPV6」
+CCTV 11 戏曲「IPV6」
+CCTV 12 社会与法「IPV6」
+CCTV 13 新闻「IPV6」
+CCTV 14 少儿「IPV6」
+CCTV 15 音乐「IPV6」
+CCTV 16 奥林匹克「IPV6」
+CCTV 16 奥林匹克·4K「IPV6」
+CCTV 17 农村农业「IPV6」
+CGTN 国际「IPV6」
+CGTN Documentary「IPV6」
+CETV 1 中国教育「IPV6」
+CETV ２ 中国教育「IPV6」
+CETV ３ 中国教育「IPV6」
+CETV 4 中国教育「IPV6」
+纯享·4K「IPV6」
+华数·4K「IPV6」
+欢笑剧场·4K「IPV6」
 
 📡卫视频道,#genre#
 山东卫视高清
@@ -271,6 +305,35 @@ CCTV-兵器科技
 珠江卫视
 华数4K
 纯享4K
+
+📡卫视「IPV6」,#genre#
+湖南卫视「IPV6」
+浙江卫视「IPV6」
+江苏卫视「IPV6」
+东方卫视「IPV6」
+北京卫视「IPV6」
+广东卫视「IPV6」
+深圳卫视「IPV6」
+重庆卫视「IPV6」
+四川卫视「IPV6」
+广西卫视「IPV6」
+天津卫视「IPV6」
+安徽卫视「IPV6」
+山东卫视「IPV6」
+江西卫视「IPV6」
+河北卫视「IPV6」
+河南卫视「IPV6」
+海南卫视「IPV6」
+东南卫视「IPV6」
+湖北卫视「IPV6」
+贵州卫视「IPV6」
+辽宁卫视「IPV6」
+吉林卫视「IPV6」
+黑龙江卫视「IPV6」
+云南卫视「IPV6」
+甘肃卫视「IPV6」
+青海卫视「IPV6」
+三沙卫视「IPV6」
 
 ☘️山东频道,#genre#
 泰安综合
@@ -2014,6 +2077,46 @@ chc电影
 咪咕直播 𝟛𝟞
 咪咕直播 𝟛𝟟
 咪咕直播 𝟛𝟠
+咪咕直播4K「IPV6」
+咪咕直播 𝟙「IPV6」
+咪咕直播 𝟚「IPV6」
+咪咕直播 𝟛「IPV6」
+咪咕直播 𝟜「IPV6」
+咪咕直播 𝟝「IPV6」
+咪咕直播 𝟞「IPV6」
+咪咕直播 𝟟「IPV6」
+咪咕直播 𝟠「IPV6」
+咪咕直播 𝟡「IPV6」
+咪咕直播 𝟙𝟘「IPV6」
+咪咕直播 𝟙𝟙「IPV6」
+咪咕直播 𝟙𝟚「IPV6」
+咪咕直播 𝟙𝟛「IPV6」
+咪咕直播 𝟙𝟜「IPV6」
+咪咕直播 𝟙𝟝「IPV6」
+咪咕直播 𝟙𝟞「IPV6」
+咪咕直播 𝟙𝟟「IPV6」
+咪咕直播 𝟙𝟠「IPV6」
+咪咕直播 𝟙𝟡「IPV6」
+咪咕直播 𝟚𝟘「IPV6」
+咪咕直播 𝟚𝟙「IPV6」
+咪咕直播 𝟚𝟚「IPV6」
+咪咕直播 𝟚𝟛「IPV6」
+咪咕直播 𝟚𝟜「IPV6」
+咪咕直播 𝟚𝟝「IPV6」
+咪咕直播 𝟚𝟞「IPV6」
+咪咕直播 𝟚𝟟「IPV6」
+咪咕直播 𝟚𝟠「IPV6」
+咪咕直播 𝟚𝟡「IPV6」
+咪咕直播 𝟛𝟘「IPV6」
+咪咕直播 𝟛𝟙「IPV6」
+咪咕直播 𝟛𝟚「IPV6」
+咪咕直播 𝟛𝟛「IPV6」
+咪咕直播 𝟛𝟜「IPV6」
+咪咕直播 𝟛𝟝「IPV6」
+咪咕直播 𝟛𝟞「IPV6」
+咪咕直播 𝟛𝟟「IPV6」
+咪咕直播 𝟛𝟠「IPV6」
+
 咪咕视频01
 咪咕视频02
 咪咕视频03
@@ -2051,6 +2154,11 @@ chc电影
 咪咕体育30
 咪咕体育31
 咪咕体育32
+咪咕直播-1
+咪咕直播-2
+咪咕直播-3
+咪咕直播-4
+咪咕直播-5
 
 🏀体育频道,#genre#
 NBA TV
@@ -2129,6 +2237,9 @@ CN卡通
 24H国漫热播
 浙江少儿
 河北少儿科教
+卡酷少儿「IPV6」
+哈哈炫动「IPV6」
+金鹰卡通「IPV6」
 七龙珠
 火影忍者
 海绵宝宝
@@ -2192,8 +2303,115 @@ IPTV法治
 求索生活
 求索动物BRTV纪实科教
 茶频道
+金鹰纪实「IPV6」
+茶频道「IPV6」
+快乐垂钓「IPV6」
+健康养生「IPV6」
+星光影院「IPV6」
+谍战剧场「IPV6」
+华语影院「IPV6」
+全球大片「IPV6」
+热门剧场「IPV6」
+宝宝动画「IPV6」
+精品综合「IPV6」
+电竞天堂「IPV6」
+热门综艺「IPV6」
+戏曲精选「IPV6」
+热播精选「IPV6」
+看天下精选「IPV6」
+亚洲影院「IPV6」
+欧美影院「IPV6」
+探索纪录「IPV6」
+少儿动漫「IPV6」
+青春动漫「IPV6」
+百变课堂「IPV6」
+电子竞技「IPV6」
+风尚音乐「IPV6」
+高清娱乐「IPV6」
+漫游世界「IPV6」
+英雄联盟音乐节「IPV6」
+晴彩广场舞「IPV6」
+晴彩少年「IPV6」
+晴彩竞技「IPV6」
+晴彩篮球「IPV6」
 
 🎮NHOT,#genre#
+iHOT 爱喜剧「IPV6」
+iHOT 爱科幻「IPV6」
+iHOT 爱院线「IPV6」
+iHOT 爱浪漫「IPV6」
+iHOT 爱悬疑「IPV6」
+iHOT 爱谍战「IPV6」
+iHOY 爱历史「IPV6」
+iHOT 爱科学「IPV6」
+iHOT 爱幼教「IPV6」
+iHOT 爱玩具「IPV6」
+iHOT 爱赛车「IPV6」
+iHOT 爱旅行「IPV6」
+iHOT 爱奇谈「IPV6」
+iHOT 爱动漫「IPV6」
+iHOT 爱体育「IPV6」
+NewTV 哒啵电竞「IPV6」
+NewTV 哒啵赛事「IPV6」
+NewTV 黑莓动画「IPV6」
+NewTV 黑莓电影「IPV6」
+NewTV 超级电影「IPV6」
+NewTV 超级电视剧「IPV6」
+NewTV 超级体育「IPV6」
+NewTV 超级综艺「IPV6」
+NewTV 金牌综艺「IPV6」
+NewTV 魅力潇湘「IPV6」
+NewTV 东北热剧「IPV6」
+NewTV 古装剧场「IPV6」
+NewTV 欢乐剧场「IPV6」
+NewTV 怡伴健康「IPV6」
+NewTV 潮妈辣婆「IPV6」
+NewTV 军旅剧场「IPV6」
+NewTV 军事评论「IPV6」
+NewTV 中国功夫「IPV6」
+NewTV 农业致富「IPV6」
+NewTV 动作电影「IPV6」
+NewTV 家庭剧场「IPV6」
+NewTV 惊悚悬疑「IPV6」
+NewTV 炫舞未来「IPV6」
+NewTV 精品萌宠「IPV6」
+NewTV 精品体育「IPV6」
+NewTV 精品大剧「IPV6」
+NewTV 精品记录「IPV6」
+NewTV 武搏世界「IPV6」
+NewTV 明星大片「IPV6」
+中国天气「IPV6」
+CHC 家庭影院「IPV6」
+CHC 动作电影「IPV6」
+CHC 影迷电影「IPV6」
+求索纪录「IPV6」
+求索生活「IPV6」
+求索动物「IPV6」
+求索科学「IPV6」
+SiTV 五星体育「IPV6」
+SiTV 劲爆体育「IPV6」
+SiTV 魅力足球「IPV6」
+SiTV 欢笑剧场「IPV6」
+SiTV 法治天地「IPV6」
+SiTV 乐游「IPV6」
+SiTV 动漫秀场「IPV6」
+SiTV 游戏风云「IPV6」
+SiTV 生活时尚「IPV6」
+SiTV 都市剧场「IPV6」
+SiTV 金色学堂「IPV6」
+SiTV 第一财经「IPV6」
+SiTV 东方财经「IPV6」
+SiTV 东方影视「IPV6」
+SiTV 上海都市「IPV6」
+SiTV 上海新闻「IPV6」
+第一财经「IPV6」
+SiTV 东方财经「IPV6」
+SiTV 东方影视「IPV6」
+SiTV 上海都市「IPV6」
+SiTV 上海新闻「IPV6」
+纪实科教「IPV6」
+广东珠江「IPV6」
+精彩影视「IPV6」
 iHOT爱动漫
 iHOT爱历史
 iHOT爱喜剧
@@ -2210,6 +2428,28 @@ iHOT爱体育
 iHOT爱体育
 iHOT爱体育
 iHOT爱奇谈
+爱旅游
+爱科学
+爱玩具
+爱院线
+爱浪漫
+爱悬疑
+爱历史
+爱奇谈
+爱科幻
+爱谍战
+爱赛车
+爱旅行
+爱喜剧
+爱幼教
+NewTV都市剧场
+NewTV游戏风云
+NewTV魅力足球
+NewTV七彩戏剧
+NewTV生活时尚
+NewTV家庭剧场
+NewTV怡伴健康
+NewTV哒啵赛事
 NEWTV超级电影
 NEWTV动作电影
 NEWTV惊悚悬疑
@@ -2353,6 +2593,20 @@ dj舞曲英雄泪
 一首伤感歌曲
 
 🏛轮播影视,#genre#
+动作电影
+明星大片
+惊悚悬疑
+军事评论
+爱情喜剧
+精品大剧
+海外剧场
+家庭剧场
+武搏世界
+中国功夫
+超级电视
+炫舞未来
+东北热剧
+欢乐剧场
 星光影院
 华语影院
 全球大片
