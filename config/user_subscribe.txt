@@ -1,6 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-http://920425.xyz:1818/TV.txt
 https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv4.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
